@@ -1,7 +1,7 @@
 <div class="desenvolvedor">
   <h1>Guilherme Lima de Oliveira</h1>
   <p>Bem Vindo ao meu repositório</p>
-  <p>Desenvolvedor Front-End =)</P> 
+  <p>Desenvolvedor Front-End =) <strong>em busca de colocação</strong></P> 
 </div>
    
   
