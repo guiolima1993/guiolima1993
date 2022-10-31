@@ -1,4 +1,4 @@
-# Olá, sou o Guilherme ! Bem vindo ao meu GitHub ! Sou Front-End :)
+# Olá, sou o Guilherme Front-End :)
 
 - 🔭 Atualmente estou trabalhando em <strong>MAKEWEB AGÊNCIA DIGITAL</strong>
 - 🌱 Atualmente estou aprendendo <strong>JAVASCRIPT/TYPESCRIPT</strong>
