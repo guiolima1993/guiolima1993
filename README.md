@@ -1,6 +1,6 @@
 # Olá, sou o Guilherme Front-End :)
 
-- 🔭 Atualmente estou trabalhando em <strong>MAKEWEB AGÊNCIA DIGITAL</strong>
+- 🔭 Atualmente estou trabalhando em <strong>Cleannew Indústria - Parque Tecnológico de Sorocaba</strong>
 - 🌱 Atualmente estou aprendendo <strong>JAVASCRIPT/TYPESCRIPT</strong>
 - 👯 Estou procurando colaborar em <strong>PROJETOS</strong>
 - 💬 Pergunte-me sobre <strong>Se sou realizado trabalhando como Dev =)</strong>
