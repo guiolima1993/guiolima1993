@@ -1,4 +1,4 @@
-# Olá, sou o Guilherme Front-End :)
+# Olá, sou Guilherme Lima Front-End :)
 
 - 🔭 Atualmente estou trabalhando em <strong>Cleannew Indústria - Parque Tecnológico de Sorocaba</strong>
 - 🌱 Atualmente estou aprendendo <strong>JAVASCRIPT/TYPESCRIPT</strong>
