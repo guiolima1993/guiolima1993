@@ -1,10 +1,8 @@
-# Olá, sou Guilherme Lima Front-End :)
-
-- 🔭 Atualmente estou trabalhando em <strong>Cleannew Indústria - Parque Tecnológico de Sorocaba</strong>
-- 🌱 Atualmente estou aprendendo <strong>JAVASCRIPT/TYPESCRIPT</strong>
+- 🔭 Atualmente estou trabalhando na <strong>CleanNew - Parque Tecnológico de Sorocaba</strong>
+- 🌱 Trabalho com <strong>JAVASCRIPT/TYPESCRIPT</strong>
 - 👯 Estou procurando colaborar em <strong>PROJETOS</strong>
 - 💬 Pergunte-me sobre <strong>Se sou realizado trabalhando como Dev =)</strong>
-- 📫 Como entrar em contato comigo: <strong>guilhermeolima93@gmail.com</strong>
+- 📫 Como entrar em contato comigo: <strong>guilhermeolima93@gmail.com</strong> / <strong>(15) 99692-6066</strong>
 - ⚡ Curiosidade: <strong>Aprendi e dominei ferramentas de Front-end em menos de um ano</strong>
 
 ## Ferramentas e Tecnologias 
