@@ -1,17 +1,70 @@
-- 🔭 Atualmente estou trabalhando na <strong>CleanNew - Parque Tecnológico de Sorocaba</strong>
-- 🌱 Trabalho com <strong>JAVASCRIPT/TYPESCRIPT</strong>
-- 👯 Estou procurando colaborar em <strong>PROJETOS</strong>
-- 💬 Pergunte-me sobre <strong>Se sou realizado trabalhando como Dev =)</strong>
-- 📫 Como entrar em contato comigo: <strong>guilhermeolima93@gmail.com</strong> / <strong>(15) 99692-6066</strong>
-- ⚡ Curiosidade: <strong>Aprendi e dominei ferramentas de Front-end em menos de um ano</strong>
+# 👋 Olá, eu sou o Guilherme Lima
 
-## Ferramentas e Tecnologias 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40px" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40px" height="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" height="40px" />
+Desenvolvedor Front-end focado em performance, integrações e criação de interfaces modernas.  
+Atuo na **CleanNew – Parque Tecnológico de Sorocaba**, trabalhando diariamente com JavaScript, TypeScript e soluções voltadas para alta conversão e eficiência.
 
+---
 
-<img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif" alt="Gif do grid de contribuições do GitHub, ele é composto por diversos quadrados pretos empilhados, onde os dias em que houve contribuições, ficam em cor verde. No gif uma cobrinha formada pelos mesmos quadrados, porém de cor roxa, vai passando por todo o grid sumindo com os quadrados em verde, como se estivesse comendo-os." class="cosmos-image">
+## 🚀 Sobre mim
+- 🔭 **Atualmente em:** CleanNew  
+- 🌱 **Stack principal:** JavaScript | TypeScript  
+- 🔌 **Experiência com APIs:** integração, consumo, criação e manutenção  
+- 🗄️ **Conhecimento em CMS e bancos headless:** **Strapi**, **Statamic**, entre outros  
+- 💬 **Curiosidade:** Dominei o ecossistema Front-end em menos de 1 ano  
+- 📫 **Contato:**  
+  - Email: **guilhermeolima93@gmail.com**  
+  - WhatsApp: **(15) 99692-6066**
 
+---
 
-  
- 
- <div><a href="https://github.com/guiolima1993"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiolima1993&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiolima1993&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
+## 🛠️ Tecnologias que utilizo
+
+### **Front-end**
+- HTML  
+- CSS  
+- JavaScript  
+- TypeScript  
+- Vue.js  
+- React  
+
+### **Back-end / CMS / Headless**
+- Strapi  
+- Statamic  
+- Consumo e integração de APIs REST e Webhooks  
+
+### **Design & Ferramentas**
+- Figma  
+- Photoshop  
+- Git / GitHub  
+
+### **Outros conhecimentos**
+- Otimização de performance web (LCP, CLS, TBT)  
+- SEO técnico aplicado  
+- Criação e melhoria de landing pages  
+- Integrações com plataformas como GTM, Meta, Google Ads, CRMs etc.  
+
+---
+
+## 📂 O que você vai encontrar por aqui
+- Projetos reais usados em produção  
+- Scripts práticos (máscaras, integrações, tracking, otimização)  
+- Estudos e experimentos com frameworks  
+- Aplicações front-end completas  
+- Testes e automações
+
+---
+
+## 📊 Estatísticas
+> Mantendo simples e funcional, sem imagens externas que quebram.
+
+- Commits semanais ativos  
+- Repositórios atualizados  
+- Aprendizado constante  
+
+---
+
+## 🤝 Conecte-se comigo
+📧 **guilhermeolima93@gmail.com**  
+📱 **(15) 99692-6066**
+
+---
