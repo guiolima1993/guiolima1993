@@ -55,7 +55,6 @@ Atuo na **CleanNew – Parque Tecnológico de Sorocaba**, trabalhando diariament
 ---
 
 ## 📊 Estatísticas
-> Mantendo simples e funcional, sem imagens externas que quebram.
 
 - Commits semanais ativos  
 - Repositórios atualizados  
